@@ -3,7 +3,7 @@
 The company named "Thence" has given an assignment
 
 ## Live Link.
-https://rakhshan90.github.io/Brunel-thence/
+https://thence-frontend-app.vercel.app/
 
 
 ## Tech Stack
