@@ -1,12 +1,9 @@
 {
-  "homepage": "https://Rakhshan90.github.io/Thence-Frontend-App",
   "name": "thence-frontend-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
@@ -14,7 +11,6 @@
   },
   "dependencies": {
     "formik": "^2.4.6",
-    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.0",
